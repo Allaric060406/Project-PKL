@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Heebo&display=swap');
+.text-left {
+    text-align: left !important; }
+  
+  .text-right {
+    text-align: right !important; }
+  
+  .text-center {
+    text-align: center !important; }
+
+.sl{
+    font-size: 15px;
+    font-family: 'Heebo', sans-serif;
+}
+.sz{
+    font-size: 17px;
+    font-family: 'Heebo', sans-serif;
+}
+.xl{
+    font-size: 18px;
+}
+
+.almt{
+    font-size: 11px;
+}
+.pt{
+    font-size:12px;
+}
+.card{
+    
+}
+/* .table1 {
+  font-family: sans-serif;
+  color: #232323;
+  border-collapse: collapse;
+}
+
+.table1, th, td {
+  border: 5px solid #999;
+  padding: 8px 20px;
+} */
+.tt{
+  height="px";
+}
+.stb{
+  width="15px";
+}
+.lbr{
+  border-width: 50px;
+}
+.mrn{
+}
